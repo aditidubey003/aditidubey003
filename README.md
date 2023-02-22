@@ -4,9 +4,7 @@
 <img  align = "right" src="https://miro.medium.com/max/720/1*qdAW1TjCN57h1lbuuzvchg.gif" alt="coding-women" width="400">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditidubey003&label=Profile%20views&color=0e75b6&style=flat" alt="aditidubey003" /> </p>
 
-- 🔭 I’m currently working on [Credit card Landing page](https://github.com/aditidubey003/FSJS-Project-7)
-
-- 🌱 I’m currently learning **HTML, CSS and JavaScript**
+- 🌱 I’m currently learning **FullStack Web Development**
 
 - 📝 I regularly write articles on [https://aditi687.hashnode.dev/](https://aditi687.hashnode.dev/)
 
