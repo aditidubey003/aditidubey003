@@ -8,7 +8,7 @@
 
 - 📝 I regularly write articles on [https://aditi687.hashnode.dev/](https://aditi687.hashnode.dev/)
 
-- 💬 Ask me about **HTML, CSS**
+- 💬 Ask me about **HTML**, **CSS**, **&JavaScript**
 
 - 📫 How to reach me **aditidubey576@gmail.com , aditidubey0033@gmail.com**
 
